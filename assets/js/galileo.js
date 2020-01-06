@@ -1,6 +1,6 @@
 ;;;
 
-console.log(" %c SiHuan 喜欢东方 Project 里的人物 Sakuya 呢 %c http://blog.sakuya.love/ ", "color: #5dac81; background: #58b2dc; padding:5px;", "padding:5px;");
+console.log(" %c SiHuan 喜欢幻想乡的 Sakuya 呢 %c http://blog.sakuya.love/ ", "color: #5dac81; background: #58b2dc; padding:5px;", "padding:5px;");
 
 document.addEventListener('DOMContentLoaded', function () {
     (function () {
