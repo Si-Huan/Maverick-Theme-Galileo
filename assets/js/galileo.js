@@ -234,3 +234,4 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     })();
 });
+var sakuya = "\u5468\u5609\u8fb0";
